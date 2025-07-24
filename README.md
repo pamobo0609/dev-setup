@@ -20,7 +20,7 @@ Automated setup script for macOS development environment using:
 ## 📦 Installation
 
 ```bash
-git clone https://github.com/yourusername/mac-dev-setup.git
+git clone https://github.com/pamobo0609/mac-dev-setup.git
 cd mac-dev-setup
 chmod +x main.sh scripts/*.sh
 ./main.sh
