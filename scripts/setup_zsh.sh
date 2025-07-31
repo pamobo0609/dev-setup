@@ -39,7 +39,6 @@ source \$ZSH/oh-my-zsh.sh
 . "\$HOME/.asdf/completions/asdf.bash"
 source \$ZSH_CUSTOM/plugins/zsh-autosuggestions/zsh-autosuggestions.zsh
 source \$ZSH_CUSTOM/plugins/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh
-PROMPT="%~ > "
 zstyle ':omz:update' mode auto
 EOF
 else
